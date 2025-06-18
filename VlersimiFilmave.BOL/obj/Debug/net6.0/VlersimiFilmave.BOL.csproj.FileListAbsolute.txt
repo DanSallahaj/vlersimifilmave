@@ -1,0 +1,11 @@
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\bin\Debug\net6.0\VlersimiFilmave.BOL.deps.json
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\bin\Debug\net6.0\VlersimiFilmave.BOL.dll
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\bin\Debug\net6.0\VlersimiFilmave.BOL.pdb
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\obj\Debug\net6.0\VlersimiFilmave.BOL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\obj\Debug\net6.0\VlersimiFilmave.BOL.AssemblyInfoInputs.cache
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\obj\Debug\net6.0\VlersimiFilmave.BOL.AssemblyInfo.cs
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\obj\Debug\net6.0\VlersimiFilmave.BOL.csproj.CoreCompileInputs.cache
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\obj\Debug\net6.0\VlersimiFilmave.BOL.dll
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\obj\Debug\net6.0\refint\VlersimiFilmave.BOL.dll
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\obj\Debug\net6.0\VlersimiFilmave.BOL.pdb
+C:\Users\eronb\source\repos\VlersimiFilmave\VlersimiFilmave.BOL\obj\Debug\net6.0\ref\VlersimiFilmave.BOL.dll

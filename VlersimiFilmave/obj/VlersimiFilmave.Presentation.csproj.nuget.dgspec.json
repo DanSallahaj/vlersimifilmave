@@ -1,0 +1,285 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave\\VlersimiFilmave.Presentation.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BLL\\VlersimiFilmave.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BLL\\VlersimiFilmave.BLL.csproj",
+        "projectName": "VlersimiFilmave.BLL",
+        "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BLL\\VlersimiFilmave.BLL.csproj",
+        "packagesPath": "C:\\Users\\eronb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eronb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj": {
+                "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj"
+              },
+              "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.DAL\\VlersimiFilmave.DAL.csproj": {
+                "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.DAL\\VlersimiFilmave.DAL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj",
+        "projectName": "VlersimiFilmave.BOL",
+        "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj",
+        "packagesPath": "C:\\Users\\eronb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eronb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.DAL\\VlersimiFilmave.DAL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.DAL\\VlersimiFilmave.DAL.csproj",
+        "projectName": "VlersimiFilmave.DAL",
+        "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.DAL\\VlersimiFilmave.DAL.csproj",
+        "packagesPath": "C:\\Users\\eronb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.DAL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eronb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj": {
+                "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.9.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave\\VlersimiFilmave.Presentation.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave\\VlersimiFilmave.Presentation.csproj",
+        "projectName": "VlersimiFilmave.Presentation",
+        "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave\\VlersimiFilmave.Presentation.csproj",
+        "packagesPath": "C:\\Users\\eronb\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\eronb\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {
+              "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BLL\\VlersimiFilmave.BLL.csproj": {
+                "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BLL\\VlersimiFilmave.BLL.csproj"
+              },
+              "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj": {
+                "projectPath": "C:\\Users\\eronb\\source\\repos\\VlersimiFilmave\\VlersimiFilmave.BOL\\VlersimiFilmave.BOL.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "dependencies": {
+            "MetroSet_UI": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
